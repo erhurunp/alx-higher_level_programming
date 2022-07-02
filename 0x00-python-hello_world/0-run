@@ -1,2 +1,2 @@
 #!/bin/bash
-export PYFILE="C is fun!"
+python3 $PYFILE
